@@ -1,0 +1,2 @@
+Error in mapping DYSPNEA codes. You never return a 0.
+Risk returns a string. Expecting a number. Hard to create an average from a string.
